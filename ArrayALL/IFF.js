@@ -1,4 +1,4 @@
-const colors = [ "R", "G", "B" , "P"]
+const colors = [ "R", "G", "B" , "P" , "K"]
 
 
 console.log(colors.indexOf("G"))

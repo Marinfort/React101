@@ -11,6 +11,11 @@ const data = [
         name: "Un",
         salary: 400
     }
+    ,
+    {
+        name: "On",
+        salary: 700
+    }
 
 ]
 
