@@ -1,4 +1,4 @@
-const data =[ 10, 20 ,30, 40 ,50]
+const data =[ 10, 20 ,30, 40 ,50 , 60]
 
 const R = data.map( (e , i)=>{
      return `Day ${i+1} : ${e}`
